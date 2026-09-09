@@ -62,6 +62,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset)
 - [BerryPath Guided Selling Flow Widget >6.6](https://github.com/BerryPath/shopware6-berrypath-flow)
 - [Product Filter Count > 6.6](https://github.com/sidworks-dev/sw-plugin-filter-counts)
+- [Better-Delivery-Time > 6.7] (https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-better-delivery-time)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
